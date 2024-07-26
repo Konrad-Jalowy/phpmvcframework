@@ -1,0 +1,19 @@
+{
+    "name": "sites/sometry2",
+    "type": "project",
+    "require": {}, 
+    "autoload": {
+        "psr-4": {
+        "Framework\\": "src/Framework",
+        "App\\": "src/App"
+        },
+        "files": [
+        "src/App/Config/Middleware.php",
+        "src/App/Config/Routes.php"
+        ]
+    },
+    "scripts": {
+        "create-uploads": "php uploads.php",
+        "run-server" : "php -S localhost:8000 -t ./public"
+    }
+}
