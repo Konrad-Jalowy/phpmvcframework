@@ -1,1 +1,6 @@
-my php mvc framework
+## my php mvc framework
+long time no see. I did 3 other (that is not mine) mvc php frameworks projects. Then i combined them all and added some things from myself and created this </br>
+Right now im back to coding in PHP (in my free time). This means, i will try to do a better framework while learning/using other languages and frameworks </br>
+But hey, thats old and pretty good project ive done. Right now im re-doing some standalone parts of a framework (templating engine, router and so on) and trying to find best piecies to combine in one, great, php-written mvc framework project.
+But this project is something ive done long time ago and im absolutely proud of myself and how i managed to understand it and get it work (even tho right now idve done it faster and better). 
+So yeah, its an mvc project, but not the latest one, the old one (thats just an info if some company wanted to really read my cv and check the github as they claim... they usually give HR to people who doesnt know anyting about it and some language models and im not sure if im even willing to work in someone else office anymore with the fullstack knowledge i have, but hey, if youre reading this and are impressed with this project, im just informing you its the old one and in coding language that is neither first nor main right now, there are better projects in my portfolio and there are better projects coming, stay tuned!)
